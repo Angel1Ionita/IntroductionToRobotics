@@ -20,3 +20,10 @@ https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61
 1. Task Requirements
 2. Picture of the setup
 3. Link to video showcasing functionality (I recommend youtube,  butanything I can access is fine)
+4. Remember to publish the video in the correct orientation.  Don’t do this:https://youtu.be/Y8H0PlUtcto5. Hand in the homework on MS teams when done - aka when Git is up to date
+
+•Coding task:Coding style is of utmost importance.  You must have aperfectly clean code in order to receive the maximum grade.  An important coding challenge present in this task is using millis()instead of delay() .
+
+ However, remember that the bulk of the grade is if the projects works. Do not tend to small details unless you have the entire functionality done.
+
+ Addendum:using interrupts yields a bonus,  but it is not a must.  Becareful, however:  if you use interrupts, it must be properly coded (with debounce etc); coding it wrong can result in subtracted points (but we doappreciate any attempt, even unsuccessful ones).
