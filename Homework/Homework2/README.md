@@ -1,6 +1,4 @@
-
-
-# Homework 2 - Crosswalk: Trafic lights for cars and people
+# Homework 2 - Crosswalk: Traffic lights for cars and people
 ### 
 ### Image:
 ![IMG_20221104_095612](https://user-images.githubusercontent.com/79210109/199923447-ed5fa7fd-7e44-48d2-a5d4-b027b6ff4a18.jpg)
