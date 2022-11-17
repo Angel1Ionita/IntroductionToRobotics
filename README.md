@@ -9,3 +9,6 @@ Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Facu
 
 ## Homework 3
 [7 segment display drawing](https://github.com/Angel1Ionita/IntroductionToRobotics/tree/main/Homework/Homework3)
+
+## Homework 4
+[4 digit 7 segment display and shift register](https://github.com/Angel1Ionita/IntroductionToRobotics/tree/main/Homework/Homework4)
